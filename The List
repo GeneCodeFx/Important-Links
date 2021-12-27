@@ -1,0 +1,2 @@
+1. Flatlist performance optimasation: https://github.com/facebook/react-native/issues/13649
+                                 : https://stackoverflow.com/questions/68235688/react-native-flatlist-renders-large-data-very-slow
